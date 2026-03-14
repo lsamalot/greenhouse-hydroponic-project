@@ -3,6 +3,7 @@ Designing an automated hydroponic growing system for educational research and fo
 
 ## Overview
 This project focuses on designing and building a modular hydroponic growing system inside an existing greenhouse.
+
 ![HCC Actual greenhouse](Images/hcc_actual_greenhouse.png)
 
 The goal is to combine environmental science, engineering, biology, and data science to create a sustainable food-growing system while providing hands-on learning opportunities for students.
@@ -41,8 +42,10 @@ Areas of focus include:
 
 ## Greenhouse Layout
 ![Greenhouse CAD draw](Images/greenhouse_cad_pic.png)
-Approximate working area: **12 ft x 8.5 ft**
+
+Approximate working area: 
 The hydroponic system will occupy approximately half the greenhouse initially.
+The entire floor space of the greenhouse is: **12 ft x 8.5 ft**
 
 Structure:
 - Metal frame greenhouse
