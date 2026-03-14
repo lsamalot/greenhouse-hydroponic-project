@@ -3,6 +3,7 @@ Designing an automated hydroponic growing system for educational research and fo
 
 ## Overview
 This project focuses on designing and building a modular hydroponic growing system inside an existing greenhouse.
+![HCC Actual greenhouse](Images/hcc_actual_greenhouse.png)
 
 The goal is to combine environmental science, engineering, biology, and data science to create a sustainable food-growing system while providing hands-on learning opportunities for students.
 
@@ -16,7 +17,8 @@ Areas of focus include:
 - Automation
 - Data collection and analysis
 
-## Overview
+### Project Map
+![Project Map](Images/hydroponic_workflow_diagram.png)
 This project focuses on designing and building a modular hydroponic growing system inside an existing greenhouse.
 
 The goal is to combine environmental science, engineering, biology, and data science to create a sustainable food-growing system while providing hands-on learning opportunities for students.
@@ -37,9 +39,10 @@ Areas of focus include:
 4. Explore solar-powered operation
 5. Provide interdisciplinary learning opportunities for students
 
-# Greenhouse Layout
-![Greenhouse CAD draw](Images/greenhouse_pic.png)
+## Greenhouse Layout
+![Greenhouse CAD draw](Images/greenhouse_cad_pic.png)
 Approximate working area: **12 ft x 8.5 ft**
+The hydroponic system will occupy approximately half the greenhouse initially.
 
 Structure:
 - Metal frame greenhouse
@@ -47,7 +50,7 @@ Structure:
 - Slanted roof (4 ft to 7 ft height)
 - No built-in flooring
 
-The hydroponic system will occupy approximately half the greenhouse initially.
+
 
 ## System Components
 Hydroponic Growing Systems
@@ -84,22 +87,21 @@ Sensors will collect:
 - Light intensity
 
 ## Technology Stack
-Software:
+###Software:
 - Python
 - Streamlit dashboards
 - GitHub version control
 
-Hardware:
+###Hardware:
 - ESP8266 / microcontrollers
 - Environmental sensors
 - Pumps and relays
 
-Design:
+###Design:
 - SketchUp
 - CAD modeling
 
 ## Project Roadmap
-![Project Map](Images/hydroponic_workflow_diagram.png)
 Phase 1 — Physical Setup
 •	Build hydroponic tower layout
 •	Install power lines
@@ -138,6 +140,7 @@ This project is open to students interested in:
 •	Data visualization
 •	Plant growth experiments
 •	Solar power design
+
 ## Repository Structure
 /greenhouse_design
     CAD drawings and layout models
