@@ -8,7 +8,7 @@ All notable changes to the Hydroponic Greenhouse Project.
 ### Added
 - Initial Streamlit dashboard concept for monitoring system data
 - 1st Hydroponic tower was received. It was tested for modularity - successful. It was fitted to the greenhouse.
-![Hydroponic_tower](Images\hydroponic_tower.jpeg")
+![Hydroponic_tower](Images/hydroponic_tower.jpeg)
 
 ### In Progress
 - Access to power has become more amplified.  We have found that access to AC power is at best, short-term. 
