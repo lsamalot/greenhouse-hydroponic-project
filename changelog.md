@@ -3,7 +3,11 @@
 All notable changes to the Hydroponic Greenhouse Project.
 
 ---
-
+## [v0.4] - 2026-04-10
+### Added
+- Solar Power System Overview
+- Solar power system overview schematinc has been created to determine the exact componenets necessary for purchase. 
+![Solar Power Schematic](Images/solar_power_system_overview.png)
 ## [v0.3] - 2026-03-28
 ### Added
 - Initial Streamlit dashboard concept for monitoring system data
